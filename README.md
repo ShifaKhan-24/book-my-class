@@ -8,5 +8,5 @@ DYPSOET College Room Booking App
 • The app features login and signup authentication for all users to ensure security and privacy.  
 • The app is a convenient and efficient tool for teachers, admins, and students to manage and access information about classroom bookings.  
 
-
-[Download](https://github.com/rohanstomar11/book-my-class/blob/master/book-my-class.apk) on Android.
+You can Download the App from here : https://github.com/ShifaKhan-24/book-my-class/blob/master/book-my-class.apk
+[Download](https://github.com/ShifaKhan-24/book-my-class/blob/master/book-my-class.apk) on Android.
